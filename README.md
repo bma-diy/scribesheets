@@ -1,4 +1,4 @@
-# 🏊‍♂️ Swim Team Scribe Sheet Parser (Dual Meet Edition)
+# 🏊‍♂️ Swim Team Scribe Sheet Parser 
 
 This script automates the tedious process of parsing Meet Maestro PDF heat sheets to generate perfectly formatted, ready-to-print Scribe Cards for meet volunteers. 
 
