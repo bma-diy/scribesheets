@@ -26,7 +26,8 @@ At the bottom of the script, you will find the main execution block. Update thes
 3. **League Dictionary:** The script uses `LEAGUE_TEAMS` to map 2-letter codes to full names (e.g., `"SW": "SW Surfers"`). Ensure your opponent is in this dictionary so the regex engine catches all swimmer variations.
 4. **Choose Layout:** Set `TEMPLATE_MODE` to `"8.5x11"` or `"4x6"`.
 5. **Meters or Yards:** set `POOL_UNITS` to either `METER` or `YARD`. Default should be `YARD`.
-6. **Run the Script:** Execute the Python file in your terminal.
+6. **Number of Swim Lanes:** Configure `NUM_SWIM_LANES`. It's either `6` or `8`, default should be `6`.
+7. **Run the Script:** Execute the Python file in your terminal.
 
 ---
 
